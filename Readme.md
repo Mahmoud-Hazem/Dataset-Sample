@@ -1,6 +1,6 @@
 # Beyond Damage Assessment: Recyclable Material Detection in Aerial Disaster Imagery Using a Lightweight Patch-Based Framework
 
-*Anonymous ACCV 2026 submission, Paper ID #******
+*Anonymous submission, Paper ID #******
 
 ## Problem Definition
 
