@@ -8,7 +8,7 @@ Aerial disaster imagery has mostly been studied for emergency response: damage a
 
 ## RecyMat: The Dataset
 
-RecyMat is a manually labeled dataset of debris material images cropped from aerial imagery of disaster-affected areas. It is built from the totally and majorly damaged regions of RescueNet, which are tiled into patches and then cropped by hand according to the visible material. It covers four classes: **brick**, **wood**, **tile**, and **other** (cement rubble, plastics, metals, vegetation, and remaining components). This repository provides an **anonymized sample** of RecyMat so reviewers can see its content, structure, and diversity and judge its relevance to the proposed research. The complete dataset will be released publicly after publication.
+RecyMat is a manually labeled dataset of debris material images cropped from aerial imagery of disaster-affected areas. It is built from the totally and majorly damaged regions of RescueNet, which are tiled into patches and then cropped by hand according to the visible material. It covers four classes: **brick**, **wood**, **tile**, and **other** (cement rubble, plastics, metals, vegetation, and remaining components). This repository provides an **anonymized sample** of RecyMat so reviewers can see its content, structure, and diversity and judge its relevance to the proposed research. 
 
 ## RecyNet: The Model
 
